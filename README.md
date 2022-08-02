@@ -1,4 +1,6 @@
 ## IMAGE AND MEMO PROGRAM - FTP MICROSERVICE
+Oregon State University
+CS361 Software Engineering
 By Derrick Priebe
 
 
