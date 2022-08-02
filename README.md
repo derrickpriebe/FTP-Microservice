@@ -52,9 +52,9 @@ Actual received data: {'object_id': '1', 'file_location': 'ftp://ftp.drivehq.com
 
 
 #### FTP Information
-FTP Site: https://www.drivehq.com
-Username: cs361ftphost
-Password: softwareengineering
+- FTP Site: https://www.drivehq.com
+- Username: cs361ftphost
+- Password: softwareengineering
 
 
 #### Requirements
